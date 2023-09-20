@@ -24,7 +24,7 @@ calc() {
                 	echo -n "$j*$i=$result \t"
        		done
 
-       		 echo " " 
+       		echo " " 
 	done
 }
 
