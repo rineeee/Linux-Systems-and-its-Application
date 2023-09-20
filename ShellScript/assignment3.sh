@@ -21,8 +21,8 @@ calc() {
 		for i in $(seq 1 $2)
         	do
                 	result=`expr $j \* $i`
-                	echo -n "$j * $i = $result \t"
-        done
+                	echo -n "$j*$i=$result \t"
+       		done
 
        		 echo " " 
 	done
